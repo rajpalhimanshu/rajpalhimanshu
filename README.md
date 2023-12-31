@@ -1,4 +1,4 @@
-[image](https://github.com/rajpalhimanshu/rajpalhimanshu/blob/main/githubprofile.jpg)![logo]()
+![image](https://github.com/rajpalhimanshu/rajpalhimanshu/blob/main/githubprofile.jpg)![logo]()
 <h1 align="center">Hi 👋, I'm Himanshu Rajpal</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
